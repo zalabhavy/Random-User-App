@@ -8,7 +8,7 @@ This is a simple **React application** that fetches and displays random user dat
 
 ## 🌐 Live Demo
 
-> *Add your live demo link here (if hosted)*
+> https://random-user-api-data.netlify.app/
 
 ---
 
