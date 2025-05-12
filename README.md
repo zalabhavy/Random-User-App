@@ -1,70 +1,92 @@
-# GitHub Codespaces ♥️ React
+---
 
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+# 🧑‍💻 Random User Info App
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+This is a simple **React application** that fetches and displays random user data from an API. It also includes a refresh feature to get a new random user and a demo button counter component.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+---
 
-This project was bootstrapped for you with [Vite](https://vitejs.dev/).
+## 🌐 Live Demo
 
-## Available Scripts
+> *Add your live demo link here (if hosted)*
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📸 Preview
 
-We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
+![App Screenshot](https://via.placeholder.com/600x300?text=User+Info+App+Preview)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
+---
 
-The page will reload automatically when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Features
 
-### `npm test`
+* 🔄 Fetches random user data using an API call.
+* 👤 Displays user profile, including image, name, phone, and location.
+* 🔁 Refresh button to fetch new user data.
+* 🧮 A separate button counter component (`Buttons`) for practice/demo.
+* 💅 Styled with smooth transitions and clean layout.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **React**
+* **JavaScript (ES6)**
+* **CSS3**
+* **[Random User API](https://randomuser.me/)**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📦 Getting Started
 
-## Learn More
+### Prerequisites
 
-You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
+Make sure you have the following installed:
 
-To learn Vitest, a Vite-native testing framework, go to [Vitest documentation](https://vitest.dev/guide/)
+* Node.js
+* npm or yarn
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
 
-### Code Splitting
+1. Clone the repository:
 
-This section has moved here: [https://sambitsahoo.com/blog/vite-code-splitting-that-works.html](https://sambitsahoo.com/blog/vite-code-splitting-that-works.html)
+   ```bash
+   git clone https://github.com/yourusername/Random-User-App.git
+   cd Random-User-App
+   ```
 
-### Analyzing the Bundle Size
+2. Install dependencies:
 
-This section has moved here: [https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer)
+   ```bash
+   npm install
+   ```
 
-### Making a Progressive Web App
+3. Start the development server:
 
-This section has moved here: [https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf](https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf)
+   ```bash
+   npm start
+   ```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://vitejs.dev/guide/build.html#advanced-base-options](https://vitejs.dev/guide/build.html#advanced-base-options)
+## 🔗 API Used
 
-### Deployment
+* [https://randomuser.me/api/](https://randomuser.me/api/)
+  Returns random user data including profile picture, name, phone, and location.
 
-This section has moved here: [https://vitejs.dev/guide/build.html](https://vitejs.dev/guide/build.html)
+---
 
-### Troubleshooting
+## ✨ Styling Highlights
 
-This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+* Blue buttons with white text and green hover effect
+* User profile cards with circular images
+* Responsive layout with `flex` and `gap`
+* Clean and centered design
+
+---
+
+## 📞 Contact
+
+Made with ❤️ by Bhavy Zala
+
+---
