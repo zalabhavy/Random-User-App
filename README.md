@@ -14,7 +14,7 @@ This is a simple **React application** that fetches and displays random user dat
 
 ## 📸 Preview
 
-![App Screenshot](https://via.placeholder.com/600x300?text=User+Info+App+Preview)
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/ebed9d3c-8823-46da-b766-8a4f801633a1" />
 
 ---
 
